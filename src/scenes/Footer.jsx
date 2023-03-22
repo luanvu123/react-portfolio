@@ -10,7 +10,7 @@ const Footer = () => {
             HUTECH
           </p>
           <p className="font-playfair text-md text-yellow">
-            ©2022 HUTECH. All Rights Reserved.
+            ©2023 HUTECH. All Rights Reserved.
           </p>
         </div>
       </div>
